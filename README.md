@@ -9,7 +9,7 @@ This repository contains the **Backend REST API** built using **Java + Spring Bo
 ## 🔗 Repository
 **Backend Repo (SSH):**
 ```bash
-git@github.com:sw210920/mechconnect-backend.git
+https://github.com/Bgbhole/projectpractice.git
 ```
 
 ---
@@ -146,7 +146,7 @@ http://localhost:8080
 ## 👨‍💻 Developed By
 **Shubham Wani**  
 Java Full Stack Developer  
-LinkedIn: linkedin.com/in/shubham-wani-91074a213
+LinkedIn: https://www.linkedin.com/in/bhushan-bhole-2b8a78255 
 
 ---
 
