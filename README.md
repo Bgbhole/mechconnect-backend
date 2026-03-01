@@ -144,7 +144,7 @@ http://localhost:8080
 ---
 
 ## 👨‍💻 Developed By
-**Shubham Wani**  
+**Bhushan Bhole**  
 Java Full Stack Developer  
 LinkedIn: https://www.linkedin.com/in/bhushan-bhole-2b8a78255 
 
